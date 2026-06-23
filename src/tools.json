@@ -177,41 +177,41 @@
         "description": "Alizer CLI tool",
         "vendor": "The Devfile Project",
         "name": "alizer",
-        "version": "1.8.2",
-        "versionRange": "^1.8.2",
-        "versionRangeLabel": "version >= 1.8.2",
+        "version": "1.10.0",
+        "versionRange": "^1.10.0",
+        "versionRangeLabel": "version >= 1.10.0",
         "dlFileName": "alizer",
         "filePrefix": "",
         "platform": {
             "win32": {
-                "url": "https://github.com/devfile/alizer/releases/download/v1.8.2/alizer-v1.8.2-windows-amd64.exe",
+                "url": "https://github.com/devfile/alizer/releases/download/v1.10.0/alizer-v1.10.0-windows-amd64.exe",
                 "dlFileName": "alizer-windows-amd64.exe",
                 "cmdFileName": "alizer.exe",
-                "sha256sum": "23ab44a0d8632f91459e02600cd270cc9a6bcfcaa05aba81dc9f80631f5d7383"
+                "sha256sum": "a89d0d742d50685cf1fadc91f1c23ca0d68964d5a8ea4545a96f6dbe9ac11d6f"
             },
             "darwin": {
-                "url": "https://github.com/devfile/alizer/releases/download/v1.8.2/alizer-v1.8.2-darwin-amd64",
+                "url": "https://github.com/devfile/alizer/releases/download/v1.10.0/alizer-v1.10.0-darwin-amd64",
                 "dlFileName": "alizer-darwin-amd64",
                 "cmdFileName": "alizer",
-                "sha256sum": "ea53424708fddc2aff5de58db943394661ef618a902ca9c2deb8d5e33a4c4175"
+                "sha256sum": "1462e4dc6d4a6dd6e49c51f4fafdf5ebbcb1fd1722cc93ff5fc80166daecaa95"
             },
             "darwin-arm64": {
-                "url": "https://github.com/devfile/alizer/releases/download/v1.8.2/alizer-v1.8.2-darwin-arm64",
+                "url": "https://github.com/devfile/alizer/releases/download/v1.10.0/alizer-v1.10.0-darwin-arm64",
                 "dlFileName": "alizer-darwin-arm64",
                 "cmdFileName": "alizer",
-                "sha256sum": "9c97fc03cdf2af37f4005ee893326a835c9a0a4b5f6e6ea4bb74e1aba61bfe7c"
+                "sha256sum": "54dbe7a117d7f7343595e3c4ac2cd02fa7d3a506877c9f5b335987704b752a69"
             },
             "linux": {
-                "url": "https://github.com/devfile/alizer/releases/download/v1.8.2/alizer-v1.8.2-linux-amd64",
+                "url": "https://github.com/devfile/alizer/releases/download/v1.10.0/alizer-v1.10.0-linux-amd64",
                 "dlFileName": "alizer-linux-amd64",
                 "cmdFileName": "alizer",
-                "sha256sum": "78b218e5f8ca16bbccff7b4bac0bb791a7862f5efbaaeebc30c2c0bc4437a84e"
+                "sha256sum": "dc6384b353ac7c9c37532ab0334ce6786f683a350a4b30be12a381517ffe4d3f"
             },
             "linux-arm64": {
-                "url": "https://github.com/devfile/alizer/releases/download/v1.8.2/alizer-v1.8.2-linux-arm64",
+                "url": "https://github.com/devfile/alizer/releases/download/v1.10.0/alizer-v1.10.0-linux-arm64",
                 "dlFileName": "alizer-linux-arm64",
                 "cmdFileName": "alizer",
-                "sha256sum": "a94b09ad13c3e6e8470a637001b47bd80737a2c24fb0364df0f70ab23a832aa1"
+                "sha256sum": "cf94c1842caba96a4418c7d807f3eda74356a3df146c000e1c91f483063237d7"
             }
         }
     },
